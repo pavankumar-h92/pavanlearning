@@ -9,5 +9,6 @@ public class JavaDataTypes {
 
         //System.out.println(myNum);
         System.out.println(myFloatNum);
+        System.out.println(myBool);
     }
 }
