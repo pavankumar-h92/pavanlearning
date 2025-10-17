@@ -48,9 +48,10 @@ public class javaOperators {
         //Java logical operators are used to perform logical operations on boolean values.
         // These operators are commonly used in decision-making statements such as if conditions and loops to control program flow.
         boolean a = true;
-        boolean b = false;
+        boolean b =  true;
+        boolean c= false;
 
-        System.out.println("a && b = " + (a&&b));
+        System.out.println("a && b = " + (a&&c));
     }
 
     public static void main(String[] arg)
